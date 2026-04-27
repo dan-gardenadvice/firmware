@@ -1,5 +1,5 @@
 {
-  "version": "3.7.13",
+  "version": "3.7.16",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
   "release_notes": "Initial OTA release — over-the-air updates enabled."
 }
