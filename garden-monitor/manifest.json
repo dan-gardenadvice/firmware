@@ -1,5 +1,5 @@
 {
-  "version": "3.8.03",
+  "version": "3.8.04",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Remote watering control: the GardenInsight app can now start and stop watering, using the same queue and safety limits as the local dashboard. Watering durations are capped, and a command queued while the controller is offline expires instead of running late."
+  "release_notes": "Remote watering control: the GardenInsight app can now start and stop watering, using the same queue and safety limits as the local dashboard. Relay names and time remaining are sent to the app so you can see exactly which valve you are opening. Watering durations are capped, and a command queued while the controller is offline expires instead of running late."
 }
