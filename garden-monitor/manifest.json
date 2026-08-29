@@ -1,5 +1,5 @@
 {
-  "version": "3.8.02",
+  "version": "3.8.03",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Cloud sync now reports each sensor's calibrated moisture range, so the GardenInsight app can show exactly where a reading sits within its target band instead of just a status label."
+  "release_notes": "Remote watering control: the GardenInsight app can now start and stop watering, using the same queue and safety limits as the local dashboard. Watering durations are capped, and a command queued while the controller is offline expires instead of running late."
 }
