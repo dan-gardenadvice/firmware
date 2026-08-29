@@ -1,5 +1,5 @@
 {
-  "version": "3.8.01",
+  "version": "3.8.02",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Cloud sync: devices now report alerts (dry/low battery/offline), local IP address, and sensor/watering-system names to GardenInsight, plus a live status classification matching the local dashboard."
+  "release_notes": "Cloud sync now reports each sensor's calibrated moisture range, so the GardenInsight app can show exactly where a reading sits within its target band instead of just a status label."
 }
