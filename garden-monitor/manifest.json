@@ -1,5 +1,5 @@
 {
-  "version": "3.8.10",
+  "version": "3.8.11",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Fixes 'Move to Pending' silently doing nothing for sensors that were never through a LoRa pairing handshake. The page reported saved but left the sensor in place. It now always moves the sensor, and only sends a factory reset to the sensor itself if there was a pairing to undo."
+  "release_notes": "Clearer wording on the sensor settings page. Removing a paired sensor now says plainly that the sensor is factory reset and would need setting up again, while a sensor that was never paired offers Deactivate, which only stops monitoring and keeps its settings."
 }
