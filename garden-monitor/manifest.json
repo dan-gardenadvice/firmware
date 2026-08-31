@@ -1,5 +1,5 @@
 {
-  "version": "3.8.06",
+  "version": "3.8.07",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Sends your gardens and local weather forecast to the GardenInsight app, so it can group sensors and watering by garden and show the same forecast the controller uses. Also fixes the forecast reading two days old: today's and tomorrow's figures were being taken from past days rather than the actual forecast."
+  "release_notes": "Each sensor can now be marked as being in a pot, and as to whether rain actually reaches it. Tick off anything under cover - a greenhouse, covered patio, or indoors - so the app stops assuming a rain forecast will water it for you."
 }
