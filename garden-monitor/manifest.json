@@ -1,5 +1,5 @@
 {
-  "version": "3.8.08",
+  "version": "3.8.09",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Adds a simple 'Add a sensor' page that the GardenInsight app links to directly, so new sensors can be named and assigned to a garden without signing in to the full settings page. It lists only newly detected sensors and cannot change anything else."
+  "release_notes": "Adds a simple 'Add a garden' page that the GardenInsight app links to directly, matching the sensor one, so a new garden can be created without signing in to the full settings page."
 }
