@@ -1,5 +1,5 @@
 {
-  "version": "3.8.09",
+  "version": "3.8.10",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Adds a simple 'Add a garden' page that the GardenInsight app links to directly, matching the sensor one, so a new garden can be created without signing in to the full settings page."
+  "release_notes": "Fixes 'Move to Pending' silently doing nothing for sensors that were never through a LoRa pairing handshake. The page reported saved but left the sensor in place. It now always moves the sensor, and only sends a factory reset to the sensor itself if there was a pairing to undo."
 }
