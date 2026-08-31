@@ -1,5 +1,5 @@
 {
-  "version": "3.8.07",
+  "version": "3.8.08",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Each sensor can now be marked as being in a pot, and as to whether rain actually reaches it. Tick off anything under cover - a greenhouse, covered patio, or indoors - so the app stops assuming a rain forecast will water it for you."
+  "release_notes": "Adds a simple 'Add a sensor' page that the GardenInsight app links to directly, so new sensors can be named and assigned to a garden without signing in to the full settings page. It lists only newly detected sensors and cannot change anything else."
 }
