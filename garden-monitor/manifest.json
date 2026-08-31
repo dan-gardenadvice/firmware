@@ -1,5 +1,5 @@
 {
-  "version": "3.8.05",
+  "version": "3.8.06",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "The GardenInsight pairing code is now shown in Settings, under a new GardenInsight tab, along with the cloud connection status. Previously the code was only visible on the serial console, so there was no way to find it in order to link a controller to the app."
+  "release_notes": "Sends your gardens and local weather forecast to the GardenInsight app, so it can group sensors and watering by garden and show the same forecast the controller uses. Also fixes the forecast reading two days old: today's and tomorrow's figures were being taken from past days rather than the actual forecast."
 }
