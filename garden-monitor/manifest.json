@@ -1,5 +1,5 @@
 {
-  "version": "3.8.11",
+  "version": "3.8.12",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Clearer wording on the sensor settings page. Removing a paired sensor now says plainly that the sensor is factory reset and would need setting up again, while a sensor that was never paired offers Deactivate, which only stops monitoring and keeps its settings."
+  "release_notes": "Sends this controller's name to the GardenInsight app, so it can be listed by name rather than by its hardware code. Useful once you have more than one controller paired."
 }
