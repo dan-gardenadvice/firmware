@@ -1,5 +1,5 @@
 {
-  "version": "3.9.0",
+  "version": "3.9.1",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Groundwork for Smart watering: the controller can now water on a schedule, skip runs when the soil is moist or rain is forecast, and split long runs into shorter, spaced-out chunks. The set-up screens come in a later update. Watering, including Run Now, now needs a GardenInsight subscription. The old AI advisor has been removed and its stored Claude API key deleted from the controller. Rain history is recorded again."
+  "release_notes": "New Schedule page: choose watering days and a start time, and set each bed's run time, rain skip and what to do if its sensor goes quiet. Also new: Watering rules (pacing, rain, water restrictions, pause) and a Decision log that shows why each bed watered or skipped."
 }
