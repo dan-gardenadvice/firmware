@@ -1,5 +1,5 @@
 {
-  "version": "3.9.2",
+  "version": "3.9.3",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Your watering schedule now syncs with the GardenInsight app, so it can be viewed and changed from your phone. The controller still makes every watering decision itself, so watering carries on if the internet is down. The decision log is sent to the app too."
+  "release_notes": "A new-look dashboard, matching the Schedule page: what's watering and what needs attention at the top, each zone's moisture against its target band, and the next scheduled run. Every other page now has the same header and colours. Quick watering has moved from the Water page onto the dashboard."
 }
