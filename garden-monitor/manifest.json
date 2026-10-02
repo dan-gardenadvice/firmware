@@ -1,5 +1,5 @@
 {
-  "version": "3.8.12",
+  "version": "3.8.14",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Sends this controller's name to the GardenInsight app, so it can be listed by name rather than by its hardware code. Useful once you have more than one controller paired."
+  "release_notes": "Fixes a crash that restarted the controller when its log storage filled up, and checks in with the cloud less often when the server isn't storing readings."
 }
