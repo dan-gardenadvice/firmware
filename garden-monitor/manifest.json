@@ -1,5 +1,5 @@
 {
-  "version": "3.9.4",
+  "version": "3.9.5",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "History is redesigned, with charts that work without internet. Signing in now uses a proper page instead of the browser's pop-up, and stays signed in for 30 days. Settings and the remaining pages now match the new look."
+  "release_notes": "History charts are fixed: 30-day graphs draw properly, 24 hours covers the full day, and charts only show what each sensor measures. New GardenInsight logo."
 }
