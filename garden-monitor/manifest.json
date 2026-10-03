@@ -1,5 +1,5 @@
 {
-  "version": "3.9.7",
+  "version": "3.9.8",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Settings: sensors and watering systems are now compact lists, with an Edit popup for each sensor, system and relay. Relays are grouped under their watering system."
+  "release_notes": "Settings tidy-up: Firmware updates are now a Settings tab, the tabs are in a more logical order, and the save bar is clearer and only shows where it applies."
 }
