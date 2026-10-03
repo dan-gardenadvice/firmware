@@ -1,5 +1,5 @@
 {
-  "version": "3.9.11",
+  "version": "3.9.12",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Adds Skip next run: skip just the next scheduled watering from the Schedule page or the GardenInsight app."
+  "release_notes": "Schedule editing now opens in centred popups on the Schedule page, and the Firmware settings tab keeps to the page width."
 }
