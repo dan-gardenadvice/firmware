@@ -1,5 +1,5 @@
 {
-  "version": "3.9.5",
+  "version": "3.9.6",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "History charts are fixed: 30-day graphs draw properly, 24 hours covers the full day, and charts only show what each sensor measures. New GardenInsight logo."
+  "release_notes": "History fixes: 30-day charts now show the whole month, and the Watering tab shows every relay on every watering system, with 30 days of history."
 }
