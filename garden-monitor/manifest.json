@@ -1,5 +1,5 @@
 {
-  "version": "3.9.3",
+  "version": "3.9.4",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "A new-look dashboard, matching the Schedule page: what's watering and what needs attention at the top, each zone's moisture against its target band, and the next scheduled run. Every other page now has the same header and colours. Quick watering has moved from the Water page onto the dashboard."
+  "release_notes": "History is redesigned, with charts that work without internet. Signing in now uses a proper page instead of the browser's pop-up, and stays signed in for 30 days. Settings and the remaining pages now match the new look."
 }
