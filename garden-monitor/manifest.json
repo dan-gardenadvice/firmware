@@ -1,5 +1,5 @@
 {
-  "version": "3.9.8",
+  "version": "3.9.9",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Settings tidy-up: Firmware updates are now a Settings tab, the tabs are in a more logical order, and the save bar is clearer and only shows where it applies."
+  "release_notes": "A clearer Thresholds tab in Settings: moisture bands in one table with a bar for each range, how many sensors use each band, and a reset to defaults."
 }
