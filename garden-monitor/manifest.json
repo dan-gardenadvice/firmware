@@ -1,5 +1,5 @@
 {
-  "version": "3.9.13",
+  "version": "3.9.14",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Install update is greyed out until a check finds a new version. The controller now checks every night and shows a banner when an update is ready. Also includes 3.9.12: schedule editing in centred popups."
+  "release_notes": "Tidy-up release. The dashboard and app now agree on each sensor's status, and the dashboard's live refresh pairs sensors with the same relay as the page. Removed unused features: the old network log server, the raw log file browser, and leftover Blynk and AI advisor code."
 }
