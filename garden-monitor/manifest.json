@@ -1,5 +1,5 @@
 {
-  "version": "3.9.14",
+  "version": "3.9.15",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Tidy-up release. The dashboard and app now agree on each sensor's status, and the dashboard's live refresh pairs sensors with the same relay as the page. Removed unused features: the old network log server, the raw log file browser, and leftover Blynk and AI advisor code."
+  "release_notes": "Clean-up release. Removed unused web pages and old settings left from earlier versions, freeing memory. The screen now shows your configured timezone, and relay timing notes are corrected. No changes to how watering works."
 }
