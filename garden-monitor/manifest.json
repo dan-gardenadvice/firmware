@@ -1,5 +1,5 @@
 {
-  "version": "3.9.15",
+  "version": "3.10.0",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Clean-up release. Removed unused web pages and old settings left from earlier versions, freeing memory. The screen now shows your configured timezone, and relay timing notes are corrected. No changes to how watering works."
+  "release_notes": "Adds Settings > Radio for the LoRa frequency. NZ rules put the band at 915-928 MHz, and the old 915.0 MHz setting sat on its edge; 921.5 MHz is the centre. Controllers with sensors stay on 915.0 MHz until their devices are updated, so nothing goes quiet. Outdoor sensors no longer show a temperature or humidity of 0."
 }
