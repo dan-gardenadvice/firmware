@@ -1,5 +1,5 @@
 {
-  "version": "3.11.3",
+  "version": "3.11.4",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Adds Locate for outdoor sensors (Settings > Sensors): the sensor flashes its light for 2 minutes when it next reports, so you can find it in the garden. Needs the latest outdoor sensor firmware."
+  "release_notes": "Groundwork for the new GardenInsight app: the app can now talk to the controller directly on your home network. No changes to the controller's own pages."
 }
