@@ -1,5 +1,5 @@
 {
-  "version": "3.11.1",
+  "version": "3.11.2",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Fixes a crash in 3.11.0: saving the Settings page (including removing a sensor) restarted the controller instead of saving. Includes everything in 3.11.0: per-garden target moisture, settings backup and restore, cloud backup, and steadier sensor calibration."
+  "release_notes": "Sensor setup is now automatic: confirm the probe is dry and the controller measures it by itself, then the same in water, and the calibration is saved. No numbers to read or buttons to time. Also more reliable with outdoor sensors."
 }
