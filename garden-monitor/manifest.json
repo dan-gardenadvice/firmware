@@ -1,5 +1,5 @@
 {
-  "version": "3.11.2",
+  "version": "3.11.3",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Sensor setup is now automatic: confirm the probe is dry and the controller measures it by itself, then the same in water, and the calibration is saved. No numbers to read or buttons to time. Also more reliable with outdoor sensors."
+  "release_notes": "Adds Locate for outdoor sensors (Settings > Sensors): the sensor flashes its light for 2 minutes when it next reports, so you can find it in the garden. Needs the latest outdoor sensor firmware."
 }
