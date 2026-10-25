@@ -1,5 +1,5 @@
 {
-  "version": "3.11.7",
+  "version": "3.11.8",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Smart watering now measures how fast each sensor's soil dries, and shows it on the dashboard and the schedule (it takes a day or two to learn). Rarely needed settings move to a new Advanced tab in Settings."
+  "release_notes": "New sensor charts on the History page: moisture, temperature and battery for 24 hours, 7 days or 30 days, with the target band, watering markers, frost shading and the battery alert level. Hover a chart to read it."
 }
