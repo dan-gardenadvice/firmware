@@ -1,5 +1,5 @@
 {
-  "version": "3.11.4",
+  "version": "3.11.5",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Groundwork for the new GardenInsight app: the app can now talk to the controller directly on your home network. No changes to the controller's own pages."
+  "release_notes": "Press the button on a sensor once and it flashes green on the Settings and Add a sensor pages, so you can tell which sensor is in your hand. Needs the latest sensor firmware. Also lets the new app talk to the controller directly at home."
 }
