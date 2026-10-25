@@ -1,5 +1,5 @@
 {
-  "version": "3.11.0",
+  "version": "3.11.1",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Each garden can now have its own target moisture range (Settings > Gardens). Settings > System can download a backup of the whole setup and restore it, including onto a replacement controller, and paired controllers now back up to the cloud automatically. Sensor calibration is steadier: a point is set only once the readings settle, the water reading is checked against your other sensors, and two quick checks confirm the result. The time zone setting is now kept after a restart."
+  "release_notes": "Fixes a crash in 3.11.0: saving the Settings page (including removing a sensor) restarted the controller instead of saving. Includes everything in 3.11.0: per-garden target moisture, settings backup and restore, cloud backup, and steadier sensor calibration."
 }
