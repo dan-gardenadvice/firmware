@@ -1,5 +1,5 @@
 {
-  "version": "3.10.0",
+  "version": "3.11.0",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Adds Settings > Radio for the LoRa frequency. NZ rules put the band at 915-928 MHz, and the old 915.0 MHz setting sat on its edge; 921.5 MHz is the centre. Controllers with sensors stay on 915.0 MHz until their devices are updated, so nothing goes quiet. Outdoor sensors no longer show a temperature or humidity of 0."
+  "release_notes": "Each garden can now have its own target moisture range (Settings > Gardens). Settings > System can download a backup of the whole setup and restore it, including onto a replacement controller, and paired controllers now back up to the cloud automatically. Sensor calibration is steadier: a point is set only once the readings settle, the water reading is checked against your other sensors, and two quick checks confirm the result. The time zone setting is now kept after a restart."
 }
