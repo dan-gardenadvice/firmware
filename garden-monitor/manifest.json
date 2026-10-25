@@ -1,5 +1,5 @@
 {
-  "version": "3.11.5",
+  "version": "3.11.6",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Press the button on a sensor once and it flashes green on the Settings and Add a sensor pages, so you can tell which sensor is in your hand. Needs the latest sensor firmware. Also lets the new app talk to the controller directly at home."
+  "release_notes": "Works with the new GardenInsight app at home: lets the app add and calibrate sensors directly. No change to the controller's own pages."
 }
