@@ -1,5 +1,5 @@
 {
-  "version": "3.11.6",
+  "version": "3.11.7",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "Works with the new GardenInsight app at home: lets the app add and calibrate sensors directly. No change to the controller's own pages."
+  "release_notes": "Smart watering now measures how fast each sensor's soil dries, and shows it on the dashboard and the schedule (it takes a day or two to learn). Rarely needed settings move to a new Advanced tab in Settings."
 }
