@@ -1,5 +1,5 @@
 {
-  "version": "3.11.8",
+  "version": "3.11.9",
   "firmware_url": "https://firmware.gardenadvice.co.nz/garden-monitor/firmware.bin",
-  "release_notes": "New sensor charts on the History page: moisture, temperature and battery for 24 hours, 7 days or 30 days, with the target band, watering markers, frost shading and the battery alert level. Hover a chart to read it."
+  "release_notes": "Relay boards are now marked offline only after 15 minutes without a status message, instead of 5, so a single missed message no longer sends a false offline alert."
 }
